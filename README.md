@@ -1,5 +1,5 @@
 # zerochess
 A simple chess server by @opaeoh
 
-#Play 
+# Play 
 0chess.glitch.me
