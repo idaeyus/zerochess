@@ -2,4 +2,4 @@
 A simple chess server by @opaeoh
 
 # Play 
-0chess.glitch.me
+https://0chess.glitch.me
